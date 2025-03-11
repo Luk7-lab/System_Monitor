@@ -1,0 +1,4 @@
+#!/bin/bash
+g++ hello1.cpp -o hello1 -lSDL2 -lSDL2_ttf -pthread
+
+./hello1
